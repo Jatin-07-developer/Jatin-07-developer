@@ -7,7 +7,7 @@
 </p>
 
 ## 📌 About Me
-- I am currently developing my own website
+- I am currently developing my own website "College Connect"
 - I am currently learning Backend development
 - I love coding in Python
 - Reach me through my email : animatedworld434@gmail.com
